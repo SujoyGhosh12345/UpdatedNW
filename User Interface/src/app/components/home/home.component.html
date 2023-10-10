@@ -1,0 +1,65 @@
+
+<app-header></app-header>
+<!-- Search input -->
+<div class="search-bar-container">
+  <input type="text" [(ngModel)]="searchTerm" (input)="onSearch()" placeholder="Search news" />
+  <button (click)="onSearch()">Search</button>
+</div>
+
+<!-- Display search results if available -->
+<div class="search-results" *ngIf="searchResults.length > 0">
+  <div class="content" style="background-color: lightpink">
+    <div fxLayout="row wrap" fxLayoutGap="10px" fxLayoutAlign="start start">
+  <div fxFlexAlign="stretch" class="search-card" *ngFor="let article of searchResults" >
+    <!-- <mat-card>
+      <mat-card-header>
+        <mat-card-title>{{ article.title }}</mat-card-title>
+      </mat-card-header>
+      <a [href]="article.url"><img mat-card-image [src]="article.urlToImage" alt="Image will be uploaded soon..." /></a>
+      <mat-card-content>
+        <p>{{ article.description }}</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button class="fav" (click)="addToFavorites(article)">Add to Favorites</button>
+      </mat-card-actions>
+    </mat-card> -->
+    <mat-card class="example-card">
+      <mat-card-header>
+        <mat-card-title style="color:blue;">{{ article.title }}</mat-card-title>
+        <mat-card-subtitle style="color:darkgoldenrod;">{{ article.author }}</mat-card-subtitle>
+      </mat-card-header>
+      <mat-card-content>
+        <a href={{article.url}}><img src={{article.urlToImage}} alt="Image will be uploaded soon..." style="height: 200px; width:100%"/></a>
+        <p style="color:darkgreen">{{ article.description }}</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button class="fav" (click)="addToFavorites(article)">Add to Favorites</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>
+</div>
+</div>
+
+
+<!-- Display all news articles here if searchResults is not available -->
+<div *ngIf="!searchResults.length">
+  <div class="content" style="background-color: lightpink">
+    <div fxLayout="row wrap" fxLayoutGap="10px" fxLayoutAlign="start start">
+      <div fxFlexAlign="stretch" *ngFor="let n of news">
+        <mat-card class="example-card">
+          <mat-card-header>
+            <mat-card-title style="color:blue;">{{ n.title }}</mat-card-title>
+            <mat-card-subtitle style="color:darkgoldenrod;">{{ n.author }}</mat-card-subtitle>
+          </mat-card-header>
+          <mat-card-content>
+            <a href={{n.url}}><img src={{n.urlToImage}} alt="Image will be uploaded soon..." style="height: 200px; width:100%"/></a>
+            <p style="color:darkgreen">{{ n.description }}</p>
+          </mat-card-content>
+          <mat-card-actions>
+            <button mat-button class="fav" (click)="addToFavorites(n)">Add to Favorites</button>
+          </mat-card-actions>
+        </mat-card>
+        <br />
+      </div>
+    </div>

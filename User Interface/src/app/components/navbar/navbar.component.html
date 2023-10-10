@@ -1,0 +1,14 @@
+<div class="navbar" >
+    <div class="logo">
+      <img src="assets/Newsapp.jpg" alt="">
+      <h1 class="title1">NEWS WORLD</h1>
+    </div>
+    <ul>
+      <li class="hello"><h3 style="color: yellow;"><button style="background-color: lightgreen; border: 1px solid black;" >Hi {{username}}</button></h3></li>
+      <li><a routerLink="/dashboard">  <button style="background-color: whitesmoke; border: 1px solid black;" >Dashboard</button></a></li>
+      <li><a routerLink="/Favourites"><button style="background-color: green; border: 1px solid black;" >Favourites</button></a></li>
+      <li><a routerLink="/Recomendation"><button style="background-color: yellow; border: 1px solid black;" >Recomendation</button></a></li>
+      <li><a (click)="logout()"><button style="background-color: red; border: 1px solid black;" >LogOut</button></a></li>
+    </ul>
+  </div>
+
