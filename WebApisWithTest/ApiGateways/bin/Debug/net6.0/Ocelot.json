@@ -1,0 +1,85 @@
+﻿{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/user",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7204
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/api/user",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/news",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7035
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/api/news",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/news/{username}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7035
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/api/news/{username}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/news",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5291
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/api/news",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ]
+}
+
+//    {
+//      "DownstreamPathTemplate": "/api/Customer",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 5116
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/gateway/api/Customer",
+//      "UpstreamHttpMethod": [ "Get" ]
+//    },
+
+//    {
+//      "DownstreamPathTemplate": "/api/News",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 5292
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/gateway/api/News",
+//      "UpstreamHttpMethod": [ "Get" ]
+//    }
+
+//  ],
+//  "GlobalConfiguration": {}
+//}

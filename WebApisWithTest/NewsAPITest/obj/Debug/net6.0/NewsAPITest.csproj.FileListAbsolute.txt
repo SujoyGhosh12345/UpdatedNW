@@ -1,0 +1,636 @@
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\testhost.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.deps.json
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\appsettings.Development.json
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\appsettings.json
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.exe
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\testhost.exe
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.engine.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.deps.json
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.runtimeconfig.json
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.pdb
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Azure.Core.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Azure.Identity.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.framework.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Memory.Data.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.dll
+D:\NewsApp\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.pdb
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.AssemblyReference.cache
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfoInputs.cache
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfo.cs
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CoreCompileInputs.cache
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CopyComplete
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.dll
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\refint\NewsAPITest.dll
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.pdb
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.genruntimeconfig.cache
+D:\NewsApp\WebApis\NewsAPITest\obj\Debug\net6.0\ref\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\testhost.exe
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\testhost.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.deps.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NewsAPITest.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\refint\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\NewsAPITest.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\NewsAPITest\obj\Debug\net6.0\ref\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\testhost.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\testhost.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\refint\NewsAPITest.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\ref\NewsAPITest.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\testhost.exe
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\testhost.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.deps.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NewsAPITest.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.AssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.csproj.CopyComplete
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\refint\NewsAPITest.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\NewsAPITest.genruntimeconfig.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\NewsAPITest\obj\Debug\net6.0\ref\NewsAPITest.dll

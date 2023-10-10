@@ -1,0 +1,47 @@
+﻿//namespace ApiGateway
+//{
+//    public class ocelot
+//    {
+      {
+        "Routes": [
+          {
+            "DownstreamPathTemplate": "/api/authenticate",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+              {
+                "Host": "localhost",
+                "Port": "7204"
+              }
+            ],
+            "UpstreamPathTemplate": "/authenticate_user",
+            "UpstreamHttpMethod": [ "POST" ]
+          },
+          {
+            "DownstreamPathTemplate": "/api/register",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+              {
+                "Host": "localhost",
+                "Port": "5067"
+              }
+            ],
+            "UpstreamPathTemplate": "/register_user",
+            "UpstreamHttpMethod": [ "POST" ]
+          },
+          {
+            "DownstreamPathTemplate": "/api/GetUserList",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+              {
+                "Host": "localhost",
+                "Port": "7275"
+              }
+            ],
+            "UpstreamPathTemplate": "/get_user",
+            "UpstreamHttpMethod": [ "GET" ]
+          }
+        ]
+      }
+
+//    }
+//}

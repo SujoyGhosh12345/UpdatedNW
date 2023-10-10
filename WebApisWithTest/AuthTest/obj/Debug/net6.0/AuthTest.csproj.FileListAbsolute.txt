@@ -1,0 +1,5 @@
+D:\NewsApp\WebApis\AuthTest\obj\Debug\net6.0\AuthTest.csproj.AssemblyReference.cache
+D:\NewsApp\WebApis\AuthTest\obj\Debug\net6.0\AuthTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewsApp\WebApis\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfoInputs.cache
+D:\NewsApp\WebApis\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfo.cs
+D:\NewsApp\WebApis\AuthTest\obj\Debug\net6.0\AuthTest.csproj.CoreCompileInputs.cache

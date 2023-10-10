@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1Xq9wsU4VFjyMVgKzfStQiB8URpya+SjGNv984OC7mM=",
+  "Source": "RecommendationWebAPI",
+  "BasePath": "_content/RecommendationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

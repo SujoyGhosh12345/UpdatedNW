@@ -1,0 +1,782 @@
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+D:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+C:\Capstone Project\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+D:\Capstone Project\New folder (2)\capstone_project_market_financial_news_app\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\AuthenticationApi\AuthenticationApi\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\NewsApp\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+D:\NewsApp\WebApis\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.AuthenticationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.exe
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.deps.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.AssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\scopedcss\bundle\AuthenticationApi.styles.css
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.csproj.CopyComplete
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\refint\AuthenticationApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\AuthenticationApi.genruntimeconfig.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\AuthenticationApi\obj\Debug\net6.0\ref\AuthenticationApi.dll

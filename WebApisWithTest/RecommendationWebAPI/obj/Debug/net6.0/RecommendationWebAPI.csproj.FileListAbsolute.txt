@@ -1,0 +1,310 @@
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecommendationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecommendationWebAPI.props
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecommendationWebAPI.props
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecommendationWebAPI.props
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+C:\Demo\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecommendationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecommendationWebAPI.props
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecommendationWebAPI.props
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecommendationWebAPI.props
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+C:\RecommendationWebAPI\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecommendationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecommendationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecommendationWebAPI.props
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecommendationWebAPI.props
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecommendationWebAPI.props
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+D:\NewsApp\WebApis\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecommendationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecommendationWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecommendationWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.exe
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.deps.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Consul.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\NewsAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.AssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\scopedcss\bundle\RecommendationWebAPI.styles.css
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.csproj.CopyComplete
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\refint\RecommendationWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\RecommendationWebAPI.genruntimeconfig.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\RecommendationWebAPI\obj\Debug\net6.0\ref\RecommendationWebAPI.dll

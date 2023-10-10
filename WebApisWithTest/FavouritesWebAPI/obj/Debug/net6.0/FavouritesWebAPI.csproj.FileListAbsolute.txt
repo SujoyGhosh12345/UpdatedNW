@@ -1,0 +1,265 @@
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\appsettings.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.exe
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.deps.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.runtimeconfig.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.pdb
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\DnsClient.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\Snappier.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.AssemblyReference.cache
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfoInputs.cache
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfo.cs
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CoreCompileInputs.cache
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FavouritesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FavouritesWebAPI.props
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FavouritesWebAPI.props
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FavouritesWebAPI.props
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\scopedcss\bundle\FavouritesWebAPI.styles.css
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CopyComplete
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\refint\FavouritesWebAPI.dll
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.pdb
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.genruntimeconfig.cache
+C:\CGI core training\Project\FavouritesWebAPI\FavouritesWebAPI\obj\Debug\net6.0\ref\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FavouritesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\scopedcss\bundle\FavouritesWebAPI.styles.css
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\refint\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApis\FavouritesWebAPI\obj\Debug\net6.0\ref\FavouritesWebAPI.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\appsettings.json
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.exe
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.deps.json
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.runtimeconfig.json
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.pdb
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\DnsClient.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\SharpCompress.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Snappier.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\ZstdSharp.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\NewsApp\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.AssemblyReference.cache
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfoInputs.cache
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfo.cs
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CoreCompileInputs.cache
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FavouritesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FavouritesWebAPI.props
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FavouritesWebAPI.props
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FavouritesWebAPI.props
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\scopedcss\bundle\FavouritesWebAPI.styles.css
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CopyComplete
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\refint\FavouritesWebAPI.dll
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.pdb
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.genruntimeconfig.cache
+D:\NewsApp\WebApis\FavouritesWebAPI\obj\Debug\net6.0\ref\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.exe
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.deps.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FavouritesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\scopedcss\bundle\FavouritesWebAPI.styles.css
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\refint\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\WebApis\WebApis\FavouritesWebAPI\obj\Debug\net6.0\ref\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.exe
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.deps.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.runtimeconfig.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.AssemblyReference.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfoInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.FavouritesWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FavouritesWebAPI.props
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\scopedcss\bundle\FavouritesWebAPI.styles.css
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CopyComplete
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\refint\FavouritesWebAPI.dll
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.genruntimeconfig.cache
+C:\Users\SUJOY GHOSH\Desktop\API's\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\ref\FavouritesWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.exe
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.deps.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.runtimeconfig.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.AssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\scopedcss\bundle\FavouritesWebAPI.styles.css
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.csproj.CopyComplete
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\refint\FavouritesWebAPI.dll
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.pdb
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\FavouritesWebAPI.genruntimeconfig.cache
+C:\Users\VMAdmin\Desktop\CapstoneProject\WebApisWithTest\FavouritesWebAPI\obj\Debug\net6.0\ref\FavouritesWebAPI.dll
